@@ -1,4 +1,4 @@
-### Olá sou o matheus 👋
+## Olá sou o matheus 👋
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://matheusgama.netlify.app/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-g-21188b217/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmsg87@gmail.com)
@@ -6,7 +6,7 @@
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewsbecker&show_icons=true&theme=merko)
 
-## Tecnologia que uso
+### Tecnologia que uso 👇
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -16,5 +16,7 @@
   <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsbecker&layout=compact)]
 
 Atualmente estou estudando REACT, JQUERY e TYPESCRIPT.
