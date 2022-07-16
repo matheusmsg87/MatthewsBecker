@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsbecker&layout=compact)]()
 
-Atualmente estou estudando REACT, JQUERY e TYPESCRIPT. 
+Atualmente estou estudando REACT e TYPESCRIPT. 
