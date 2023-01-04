@@ -4,8 +4,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmsg87@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m7h3us/)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewsbecker&show_icons=true&theme=merko)
-
 ### Tecnologia que uso diariamente 👇
 
 <div style="display: inline_block"><br/>
